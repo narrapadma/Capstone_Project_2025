@@ -28,10 +28,12 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-File Name: 
-1. Capstone_Assignment_20_1.ipynb
-2. Img folder to store the graphical plots
-3. cleaned_used_cars_prices_datafile.csv 
+File List Uploaded : 
+1. README.txt 
+2. Assignment_20_1_Findings.docx
+3. Capstone_Assignment_20_1.ipynb
+4. cleaned_used_cars_prices_datafile.csv
+5. img.zip
 
 
 
